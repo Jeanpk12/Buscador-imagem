@@ -29,7 +29,6 @@
 
 ```
 const apiKey ='SuaChaveDeAPI';
-
 ```
 
 <h2>Observações</h2>
