@@ -5,6 +5,8 @@
 
 ![image](https://github.com/Jeanpk12/Buscador-imagem/assets/122842874/3a6ff88d-3388-4847-95f4-4740ccd38b76)
 
+<a href="https://jeanpk12.github.io/Buscador-imagem/" target="_blank">GitHub Pages</a>
+
 <h2>Estrutura do Projeto</h2>
 <p>O projeto está estruturado em HTML, CSS e JavaScript. Aqui está uma breve visão geral dos principais arquivos e diretórios:</p>
 <ul>
